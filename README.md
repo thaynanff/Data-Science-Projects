@@ -1,7 +1,7 @@
 # Data Science Projects
 ---
 
-The best way to get knowledge is by having a hands-on experience. Therefore, with this repository I intend to share the Data Science Projects I've created and participated during my jorney towards Data Science:
+The best way to get knowledge is by having hands-on experience. Therefore, with this repository I intend to share the Data Science Projects I've created and participated in during my journey toward Data Science:
 
 | Project_ID | Project | Description | Resource Link |
 | -------- | -------- | -------- |-------- |
